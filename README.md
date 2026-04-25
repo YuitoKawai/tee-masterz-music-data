@@ -1,2 +1,2 @@
-# tee-masterz-music-data
-Initial commit
+# Tee Masterz Music Data (MUSICDAT)
+TM-100L (600 Song Bank)
